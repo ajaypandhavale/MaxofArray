@@ -19,7 +19,6 @@ public class MaxOfArray {
 			 arr[i] = sc.nextInt();
 			 }
 		
-		System.out.println("array elements");
 		int max=0;
 		
 		for(int i=0;i<limit;i++) {
