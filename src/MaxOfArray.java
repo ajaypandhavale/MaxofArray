@@ -29,7 +29,7 @@ public class MaxOfArray {
 		
 		System.out.println("max ="+max);
 		
-		
+			System.out.println("Ajay Dilip Pandhavale");
 
 	}
 
